@@ -1,2 +1,2 @@
-# python-test
-Python test code
+# test
+test code
